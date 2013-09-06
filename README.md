@@ -2,6 +2,8 @@
 
 Creates a JIRA issue for all Web Page Runner failures after a completed test.
 
+*This was the winning entry of the [LoadUI component competition](http://www.loadui.org/Competition/component-competition.html)*
+
 Updates
 -------
 2011-12-01 Fixed the problems with the missing connection point and also the missing smack depencency.
