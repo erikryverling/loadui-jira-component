@@ -6,7 +6,7 @@ This is a [LoadUI custom component](http://www.loadui.org/Custom-Components) tha
 
 Updates
 -------
-**2011-12-01** Fixed the problems with the missing connection point and also the missing smack depencency.
+**2011-12-01** Fixed the problems with the missing connection point and also the missing *smack* depencency.
 
 Usage
 -----
@@ -20,3 +20,4 @@ Usage
 Troubleshooting
 ---------------
 If you get the status Issue failed when trying to create the JIRA issue, please check you settings. You could also try to run the loadUItest.bat script to a more specified error message.
+
