@@ -6,7 +6,7 @@ This is a [LoadUI custom component](http://www.loadui.org/Custom-Components) tha
 
 Updates
 -------
-* 2011-12-01 Fixed the problems with the missing connection point and also the missing smack depencency.
+**2011-12-01** Fixed the problems with the missing connection point and also the missing smack depencency.
 
 Usage
 -----
