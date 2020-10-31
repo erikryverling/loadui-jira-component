@@ -1,5 +1,3 @@
-![LoadUI JIRA component](http://www.loadui.org/images/stories/homepage/jira.png)
-
 This is a [LoadUI custom component](http://www.loadui.org/Custom-Components) that creates a JIRA issue for all Web Page Runner failures after a completed test.
 
 *This was the winning entry of the [LoadUI component competition](http://www.loadui.org/Competition/component-competition.html)*
